@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tic_Kotlin</string>
+    <string name="playGame">Play Game</string>
+</resources>
